@@ -1,0 +1,16 @@
+/client/node_modules
+/server/node_modules
+
+
+/client/.pnp
+/server/.pnp
+
+.pnp.js
+
+# testing
+/client/coverage
+/server/coverage
+
+# production
+/client/build
+/server/build
